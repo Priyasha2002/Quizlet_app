@@ -1,1 +1,1 @@
-Quiz Application in Flutter
+Quiz Application in Flutter using GetX.
